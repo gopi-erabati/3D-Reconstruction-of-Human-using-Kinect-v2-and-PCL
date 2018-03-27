@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\myvtkwidget.o
+./release\filegrabber.o
+./release\kinect2_grabber.o
+./release\cfilter.o
+./release\regmesh.o
+./release\moc_mainwindow.o
+./release\moc_myvtkwidget.o
+./release\moc_screensetup.o
+);

@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\myvtkwidget.o
+./debug\filegrabber.o
+./debug\kinect2_grabber.o
+./debug\cfilter.o
+./debug\regmesh.o
+./debug\moc_mainwindow.o
+./debug\moc_myvtkwidget.o
+./debug\moc_screensetup.o
+);
